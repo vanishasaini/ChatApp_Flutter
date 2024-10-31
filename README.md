@@ -1,7 +1,6 @@
 #Let’s Talk - Messaging App
 
-
-#  Let’s Talk is a dynamic and user-friendly messaging application designed to facilitate seamless communication between individuals and groups. Built using Flutter and powered by Firebase, this app allows users to engage in real-time conversations, ensuring that staying connected is easy and efficient.
+# Let’s Talk is a dynamic and user-friendly messaging application designed to facilitate seamless communication between individuals and groups. Built using Flutter and powered by Firebase, this app allows users to engage in real-time conversations, ensuring that staying connected is easy and efficient.
 
 # Demo
 <p float="left">   
